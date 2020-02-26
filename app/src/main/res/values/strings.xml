@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learn Tamil</string>
+    <string name="no">Numbers</string>
+    <string name="colour">Colours</string>
+    <string name="phrases">Phrases</string>
+    <string name="family">Family Members</string>
+
+
+</resources>
